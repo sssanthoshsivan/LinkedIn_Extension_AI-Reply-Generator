@@ -33,3 +33,11 @@ This Chrome extension assists users in generating replies to messages on LinkedI
 - Click the AI icon to open a modal.
 - Type any command and click "Generate" to display the dummy response.
 - Click "Insert" to add the response to the message input field.
+
+## Example
+
+
+https://github.com/user-attachments/assets/11d8a914-49be-45e8-83a3-84eb14d838da
+
+
+
